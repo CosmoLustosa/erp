@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="adicionar">
+    <file>icons/pessoa.png</file>
+    <file>icons/lupa.png</file>
+    <file>icons/sair.png</file>
+    <file>icons/excluir user.png</file>
+    <file>icons/buscar.png</file>
+    <file>icons/alterar_usuario.png</file>
+    <file>icons/adicioar.png</file>
+  </qresource>
+</RCC>

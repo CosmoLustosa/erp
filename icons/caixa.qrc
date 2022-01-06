@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="caixa">
+    <file>pagar.png</file>
+  </qresource>
+</RCC>

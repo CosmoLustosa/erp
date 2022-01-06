@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="cancelar">
+    <file>icons/verifica (1).png</file>
+    <file>icons/cancel.png</file>
+  </qresource>
+</RCC>
