@@ -1,2 +1,2 @@
-.pyc
-controleBD.py
+*.pyc
+/controleBD.py
